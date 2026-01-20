@@ -8,6 +8,7 @@ It's not cool 😎 to use ~~*Google Doc*~~. So I made my life a little harder, d
 ## Usage
 - Edit `data.json` for your wonderful profile
 - Simply print your browser's page to save in PDF format
+- Or... run `node generatePdf`
 ### Page Break
 Forcing page break by using `class="new-page"`
 
